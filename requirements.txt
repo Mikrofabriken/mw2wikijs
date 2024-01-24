@@ -1,0 +1,4 @@
+graphqlclient
+requests
+bs4
+pandoc
