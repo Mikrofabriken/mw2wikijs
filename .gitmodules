@@ -1,0 +1,6 @@
+[submodule "python-mwtypes"]
+	path = python-mwtypes
+	url = https://github.com/Ulrhol/python-mwtypes.git
+[submodule "python-mwxml"]
+	path = python-mwxml
+	url = https://github.com/Ulrhol/python-mwxml.git
