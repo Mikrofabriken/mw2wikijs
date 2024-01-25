@@ -136,7 +136,7 @@ if __name__ == "__main__":
                     print("Succeeded")
                     print(resp)
                 else:
-                    print("Succeeded")
+                    print("Failed")
                     print(resp)
 
             elif isinstance(obj, Revision) and docreates:
